@@ -1,0 +1,46 @@
+.div2{
+    background-size: 50px;
+    border: 2px solid grey;
+    margin-left: 38%;
+    margin-right: 38%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+    
+
+}
+.hen{
+font-size: smaller;
+text-align: center;
+color: grey;
+}
+
+.hen1{
+    text-align: center;
+    font-size: medium;
+}
+input{
+    margin-left: 15%;
+    padding: 10px;
+    margin-top: 5%;
+}
+.but{
+    margin-left: 13px;
+    width: 90%;
+    height: 30px;
+    /* color: rgb(31, 193, 93); */
+    background-color: rgb(31, 193, 93);
+    border: none;
+    border-radius: 5%;
+    margin-top: 2%;
+    padding: 10px;
+}
+/* h6{
+padding: 10px;
+} */
+body{
+    background-color: grey;
+}
+.divoga{
+    /* background-color: white; */
+}

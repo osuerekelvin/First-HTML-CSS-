@@ -1,0 +1,37 @@
+div{
+    background-size: 50px;
+    border: 2px solid grey;
+    margin-left: 38%;
+    margin-right: 38%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+    
+}
+h3{
+    font-size: smaller;
+    text-align: center;
+    color: grey;
+}
+h2{
+    text-align: center;
+    font-size: medium;
+}
+p{
+    font-size: small;
+    text-align: left;
+}
+
+.fin{
+    margin-left: 13px;
+    width: 90%;
+    height: 30px;
+    /* color: rgb(31, 193, 93); */
+    background-color: rgb(31, 193, 93);
+    border: none;
+    border-radius: 5%;
+    margin-top: 2%;
+}
+body{
+    background-color: grey;
+}
